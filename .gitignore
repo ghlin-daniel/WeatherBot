@@ -99,3 +99,12 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# User-specific stuff:
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/dictionaries
+
+# direnv
+.direnv/
+.envrc
